@@ -11,6 +11,7 @@ import net.gondr.views.ScorePopupController;
 
 public class App extends Application 
 {
+	//안녕하세요
 	public static App app;
 	public Game game = null;
 	
